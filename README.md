@@ -2,7 +2,7 @@
   # Tower-Veil 
 
   ## Walkthrough Video
-  [Walkthrough Video](https://watch.screencastify.com/v/1vyPoAklhxgrVQfPPf5Gl)
+  [Walkthrough Video](https://watch.screencastify.com/v/1vyPoAklhxgrVQfPPf5G)
   ## Description:
   Back End E-commerce management app
 
